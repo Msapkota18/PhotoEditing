@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>982852767103-3vb4i5icbgiro957f03rudjeb4k9porj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.982852767103-3vb4i5icbgiro957f03rudjeb4k9porj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>982852767103-4p2q4shl648o18p8u9aps1a5a2i1g8m9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDoeJfFfOwIUIIqcmLPcRUCZBJrUcECwV4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>982852767103</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.social.photoshare</string>
+	<key>PROJECT_ID</key>
+	<string>carservice-e5ea6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carservice-e5ea6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:982852767103:ios:0af795788459fe90839e4a</string>
+	<key>DATABASE_URL</key>
+	<string>https://carservice-e5ea6.firebaseio.com</string>
+</dict>
+</plist>
